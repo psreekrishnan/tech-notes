@@ -1,7 +1,7 @@
 # Neo4j MCP Setup Guide (Windows)
 
 1. Download the MCP binary from the official GitHub release: https://github.com/neo4j/mcp/releases/download/v1.1.1/neo4j-mcp_Windows_x86_64.zip
-2. Add MCP Server Entry in `mcp.json` --> C:\Users\%USERNAME%\.aws\amazonq\mcp.json
+2. Add MCP Server Entry in `mcp.json` --> C:\Users\\%USERNAME%\\.aws\amazonq\mcp.json
 3. If you've extracted the downloaded  file to c:\Workspace\neo4j-mcp_Windows_x86_64, then you may need to update the command as below,
 4. Restart Amazon Q or Reload MCP Config may required.
 5. Start prompting from amazonq chat.
